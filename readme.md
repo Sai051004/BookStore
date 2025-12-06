@@ -11,8 +11,8 @@ A modern, responsive e-commerce website for an online book store built with HTML
 - [Pages Overview](#pages-overview)
 - [Key Features](#key-features)
 - [Browser Support](#browser-support)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## ✨ Features
 
